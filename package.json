@@ -1,7 +1,7 @@
 {
-  "name": "puppeteer-commonjs-jest",
+  "name": "puppeteer-commonjs-jest-assert",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs and jest.",
+  "description": "Puppeteer end-to-end test automation boilerplate, using CommonJS, Jest and Assert.",
   "scripts": {
     "test": "jest",
     "lint": "npx eslint --ext .js ./ --fix"
@@ -10,7 +10,8 @@
     "puppeteer",
     "jest",
     "boilerplate",
-    "example"
+    "example",
+    "e2e"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
