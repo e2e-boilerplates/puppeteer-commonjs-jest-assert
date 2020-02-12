@@ -1,4 +1,5 @@
 const puppeteer = require("puppeteer");
+const assert = require("assert");
 
 let page;
 let browser;
@@ -27,7 +28,7 @@ describe("Sandbox", () => {
     await page.waitFor("h1");
     const title = await page.$eval("h1", el => el.textContent);
 
-    expect(await page.title()).toEqual("Sandbox");
-    expect(title).toEqual("Sandbox");
+    assert.strictEqual(await page.title(), "Sandbox");
+    assert.strictEqual(title, "Sandbox");
   });
 });
