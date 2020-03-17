@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/puppeteer-commonjs-jest-assert](https://github.com/e2e-boilerplate/puppeteer-commonjs-jest-assert/workflows/puppeteer-commonjs-jest-assert/badge.svg)](https://github.com/e2e-boilerplate/puppeteer-commonjs-jest-assert/actions?workflow=puppeteer-commonjs-jest-assert)
+[![GitHub Actions status | e2e-boilerplate/puppeteer-commonjs-jest-assert](https://github.com/e2e-boilerplate/puppeteer-commonjs-jest-assert/workflows/puppeteer-commonjs-jest-assert/badge.svg)](https://github.com/e2e-boilerplate/puppeteer-commonjs-jest-assert/actions?workflow=puppeteer-commonjs-jest-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Puppeteer Boilerplate
 
