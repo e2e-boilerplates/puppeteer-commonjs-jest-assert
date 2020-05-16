@@ -27,14 +27,15 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "commonjs",
+    "jest",
+    "puppeteer",
     "e2e",
     "e2e tests",
-    "example",
+    "boilerplate",
     "integration test",
-    "jest",
-    "puppeteer"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
